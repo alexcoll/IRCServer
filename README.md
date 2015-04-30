@@ -5,7 +5,6 @@ A basic Internet Relay Chat (IRC) server written in C++.
 
 Was a project assignment for Purdue CS240.
 
-This server is ment to be used with my client, [IRCClient](http://github.com/alexcoll/IRCClient).
 
 ## Copying ##
 Even though the GPL v3 liscense gives you the freedom to use the code however you want (within the terms of the licnese), do **NOT** use any verbatium or logically similar portions of this code in your own assignments. You WILL get caught, and you WILL recieve a zero on your assignment.
